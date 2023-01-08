@@ -11,6 +11,7 @@ Appunti del corso di Ingegneria Informatica
     </tr>
   </thead>
     <tr><td> Analisi Matematica 1 </td><td> non ancora caricato </td></tr>
+    <tr><td> Geometria e Algebra Lineare </td><td> non ancora caricato </td></tr>
     <tr>
         <td> Fondamenti di Informatica </td>
         <td> 
@@ -28,7 +29,6 @@ Appunti del corso di Ingegneria Informatica
           </table> 
       </td>
   </tr>
-  <tr><td> Geometria e Algebra Lineare </td><td> non ancora caricato </td></tr>
 </table>
 
 ### Semetre II
