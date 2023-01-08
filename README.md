@@ -19,9 +19,9 @@ Appunti del corso di Ingegneria Informatica
             <thead><tr><th> Argomento </th><th> Riassunto </th></tr></thead>
             <tbody>
               <tr><td> Fondamenti di Informatica </td><td> <a href="FONDAMENTI_DI_INFORMATICA.pdf"> PDF completo </a></td></tr></tbody>
-              <tr><td> Architettura dell'elaboratore </td><td> 5-12 </td></tr></tbody>
-              <tr><td> Rappresentazione dell'informazione </td><td> 13-21 </td></tr></tbody>
-              <tr><td> Linguaggio C89 </td><td> 25-59 </td></tr></tbody>
+              <tr><td> Architettura dell'elaboratore </td><td> <a href="FONDAMENTI_DI_INFORMATICA.pdf"> 5-12 </a> </td></tr></tbody>
+              <tr><td> Rappresentazione dell'informazione </td><td> <a href="FONDAMENTI_DI_INFORMATICA.pdf"> 13-21 </a> </td></tr></tbody>
+              <tr><td> Linguaggio C89 </td><td> <a href="FONDAMENTI_DI_INFORMATICA.pdf"> 25-59 </a> </td></tr></tbody>
             </table>
             </td>
             </tr>
