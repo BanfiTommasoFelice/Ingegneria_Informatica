@@ -8,7 +8,7 @@
 | Rappresentazione dell'informazione | <a href="/Fondamenti_Informatica/FI_rappresentazione_informazione.pdf"> 13-21 </a> |
 | Linguaggio C89 | <a href="/Fondamenti_Informatica/FI_linguaggio_C89.pdf"> 25-59 </a> |</br>
 
-- [ ] **Analisi Matematica 1**
+- [X] **Analisi Matematica 1**
   
 | Argomento | Riassunto (pagine) |
 | --- | --- |
@@ -23,7 +23,8 @@
 
 - [ ] **Geometria e Algebra Lineare**
 
-| Argomento | Riassunto |
+| Argomento | Riassunto (pagine) |
 | --- | --- |
-| non caricato | non caricaricato |
+| Fondamenti di Informatica | <a href="/Geometria_Algebra_Lineare/FONDAMENTI_DI_INFORMATICA.pdf"> PDF completo </a> |
+| Dimostrazioni | <a href="/Fondamenti_Informatica/FI_linguaggio_C89.pdf"> 1-20 </a> |</br>
    
