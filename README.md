@@ -25,6 +25,6 @@
 
 | Argomento | Riassunto (pagine) |
 | --- | --- |
-| Fondamenti di Informatica | <a href="Ingegneria_Informatica/Geometria_Algebra_Lineare/GEOMETRIA_E_ALGEBRA_LINEARE.pdf"> PDF completo </a> |
-| Dimostrazioni | <a href="Ingegneria_Informatica/Geometria_Algebra_Lineare/GAL_dimostrazioni.pdf"> 1-20 </a> |</br>
+| Fondamenti di Informatica | <a href="/Geometria_Algebra_Lineare/GEOMETRIA_E_ALGEBRA_LINEARE.pdf"> PDF completo </a> |
+| Dimostrazioni | <a href="/Geometria_Algebra_Lineare/GAL_dimostrazioni.pdf"> 1-20 </a> |</br>
    
