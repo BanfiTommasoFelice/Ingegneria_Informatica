@@ -21,7 +21,7 @@
 | Dimostrazioni 1 | <a href="/Analisi_Matematica_1/AM1_dimostrazioni_1.pdf"> 1-8 </a> |
 | Dimostrazioni 2 | <a href="/Analisi_Matematica_1/AM1_dimostrazioni_2.pdf"> 1-14 </a> |
 
-- [ ] **Geometria e Algebra Lineare**
+- [X] **Geometria e Algebra Lineare**
 
 | Argomento | Riassunto (pagine) |
 | --- | --- |
