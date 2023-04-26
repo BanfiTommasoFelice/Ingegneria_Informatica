@@ -1,4 +1,4 @@
-# 1° Anno Ingegneria Informatica (1° semestre)
+# 1° Anno Ingegneria Informatica
 - [X] **Fondamenti di Informatica**
 
 | Argomento | Riassunto (pagine) |
@@ -28,3 +28,9 @@
 | Geometria e Algebra Lineare | <a href="/Geometria_Algebra_Lineare/GEOMETRIA_E_ALGEBRA_LINEARE.pdf"> PDF completo </a> |
 | Dimostrazioni | <a href="/Geometria_Algebra_Lineare/GAL_dimostrazioni.pdf"> 1-20 </a> |</br>
    
+- [] **Fisica**
+
+- [] **Elettrotecnica**
+
+- [] **Fondamenti di Comunicazione e Internet*
+
