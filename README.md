@@ -28,9 +28,9 @@
 | Geometria e Algebra Lineare | <a href="/Geometria_Algebra_Lineare/GEOMETRIA_E_ALGEBRA_LINEARE.pdf"> PDF completo </a> |
 | Dimostrazioni | <a href="/Geometria_Algebra_Lineare/GAL_dimostrazioni.pdf"> 1-20 </a> |</br>
    
-- [] **Fisica**
+- [ ] **Fisica**
 
-- [] **Elettrotecnica**
+- [ ] **Elettrotecnica**
 
-- [] **Fondamenti di Comunicazione e Internet*
+- [ ] **Fondamenti di Comunicazione e Internet*
 
