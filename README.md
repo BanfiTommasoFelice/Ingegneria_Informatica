@@ -32,5 +32,5 @@
 
 - [ ] **Elettrotecnica**
 
-- [ ] **Fondamenti di Comunicazione e Internet*
+- [ ] **Fondamenti di Comunicazione e Internet**
 
