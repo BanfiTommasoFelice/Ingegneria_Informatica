@@ -1,36 +1,25 @@
-# 1° Anno Ingegneria Informatica
-- [X] **Fondamenti di Informatica**
+# PoliNotes 
+Link del sito: &nbsp;&nbsp; https://polinotes.altervista.org/
+## Appunti per Ingegneria Informatica (PoliMi)
+Su questo sito sono caricati appunti sistemati e controllati, non per questo sono completamente privi di errori e imprecisioni.<br/>
+Se all'esame fate un errore perchè nei miei appunti c'è qualche formula sbagliata non prendetevela con me  :innocent:	<br/>
+Per ZOOMMARE le pagine delle dispense usare la combinazione di tasti [ctrl][+] e [ctrl][-]
 
-| Argomento | Riassunto (pagine) |
+
+### 1° Anno (Ing. Informatica/Telecomunicazioni, Elettrica, Elettronica, Automazione)
+| Esame | CFU |
 | --- | --- |
-| Fondamenti di Informatica | <a href="/Fondamenti_Informatica/FONDAMENTI_DI_INFORMATICA.pdf"> PDF completo </a> |
-| Architettura dell'elaboratore | <a href="/Fondamenti_Informatica/FI_architettura_elaboratore.pdf"> 5-12 </a> |
-| Rappresentazione dell'informazione | <a href="/Fondamenti_Informatica/FI_rappresentazione_informazione.pdf"> 13-21 </a> |
-| Linguaggio C89 | <a href="/Fondamenti_Informatica/FI_linguaggio_C89.pdf"> 25-59 </a> |</br>
+| <a href="https://polinotes.altervista.org/anno1/ANALISI_MATEMATICA_1.html"> ANALISI MATEMATICA 1 </a> | 10 | 
+| <a href="https://polinotes.altervista.org/anno1/FONDAMENTI_DI_INFORMATICA.html"> FONDAMENTI DI INFORMATICA </a> | 10 |
+| <a href="https://polinotes.altervista.org/anno1/GEOMETRIA_E_ALGEBRA_LINEARE.html"> GEOMETRIA E ALGEBRA LINEARE </a> | 8 |
+| <a href="https://polinotes.altervista.org/anno1/FISICA.html"> FISICA </a> | 12 |
+| <a href="https://polinotes.altervista.org/anno1/FONDAMENTI_DI_COMUNICAZIONI_E_INTERNET.html"> FOND. DI COMUNICAZIONE E INTERNET </a> | 10 |
+| <a href="https://polinotes.altervista.org/anno1/ELETTROTECNICA.html"> ELETTROTECNICA </a> | 10 | </br>
 
-- [X] **Analisi Matematica 1**
-  
-| Argomento | Riassunto (pagine) |
-| --- | --- |
-| Analisi Matematica 1 | <a href="/Analisi_Matematica_1/ANALISI_MATEMATICA_1.pdf"> PDF completo </a> |
-| Numeri Reali e Complessi | <a href="/Analisi_Matematica_1/AM1_reali_complessi.pdf"> 26-42 </a> |
-| Successioni e Funzioni | <a href="/Analisi_Matematica_1/AM1_grafici_successioni_funzioni.pdf"> 11-15 , 20-25 , 43-56 </a> |
-| Derivate | <a href="/Analisi_Matematica_1/AM1_derivate.pdf"> 57-75 </a> |
-| Integrali | <a href="/Analisi_Matematica_1/AM1_integrali.pdf"> 76-88 </a> |
-| Serie | <a href="/Analisi_Matematica_1/AM1_serie.pdf"> 89-99 </a> |
-| Dimostrazioni 1 | <a href="/Analisi_Matematica_1/AM1_dimostrazioni_1.pdf"> 1-8 </a> |
-| Dimostrazioni 2 | <a href="/Analisi_Matematica_1/AM1_dimostrazioni_2.pdf"> 1-14 </a> |
+### 2° Anno (Ing. Informatica/Telecomunicazioni)
+Contenuto non ancora disponibile
 
-- [X] **Geometria e Algebra Lineare**
+### 3° Anno (Ing. Informatica)
+Contenuto non ancora disponibile
 
-| Argomento | Riassunto (pagine) |
-| --- | --- |
-| Geometria e Algebra Lineare | <a href="/Geometria_Algebra_Lineare/GEOMETRIA_E_ALGEBRA_LINEARE.pdf"> PDF completo </a> |
-| Dimostrazioni | <a href="/Geometria_Algebra_Lineare/GAL_dimostrazioni.pdf"> 1-20 </a> |</br>
-   
-- [ ] **Fisica**
-
-- [ ] **Elettrotecnica**
-
-- [ ] **Fondamenti di Comunicazione e Internet**
 
