@@ -1,10 +1,10 @@
 # PoliNotes 
 Link del sito: &nbsp;&nbsp; https://polinotes.altervista.org/
 ## Appunti per Ingegneria Informatica (PoliMi)
-Su questo sito sono caricati appunti sistemati e controllati, non per questo sono completamente privi di errori e imprecisioni.<br/>
-Se all'esame fate un errore perchè nei miei appunti c'è qualche formula sbagliata non prendetevela con me  :innocent:	<br/>
-Per ZOOMMARE le pagine delle dispense usare la combinazione di tasti [ctrl][+] e [ctrl][-]
-
+- Su questo sito sono caricati appunti sistemati e controllati, non per questo sono completamente privi di errori e imprecisioni.<br/>
+- Se all'esame fate un errore perchè nei miei appunti c'è qualche formula sbagliata non prendetevela con me  :innocent:	<br/>
+- Per ZOOMMARE le pagine delle dispense usare la combinazione di tasti [ctrl][+] e [ctrl][-]
+- Se trovate errori nei file aprite una Issue qui su GitHub o <a href="https://linktr.ee/banfitommasofelice"> contattatemi </a> su Telegram
 
 ### 1° Anno (Ing. Informatica/Telecomunicazioni, Elettrica, Elettronica, Automazione)
 | Esame | CFU |
